@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string_view": "cpp",
+        "string": "cpp",
+        "format": "cpp",
+        "iosfwd": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
